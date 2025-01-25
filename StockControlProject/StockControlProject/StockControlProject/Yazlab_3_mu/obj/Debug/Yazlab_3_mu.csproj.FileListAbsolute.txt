@@ -1,0 +1,181 @@
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe.config
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Npgsql.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Buffers.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Memory.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Text.Json.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.ValueTuple.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\Npgsql.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Buffers.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Memory.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Text.Json.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\bin\Debug\System.ValueTuple.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form1.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Properties.Resources.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.GenerateResource.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3.1331564A.Up2Date
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form2.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form3.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form4.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form5.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe.config
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.pdb
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Npgsql.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Buffers.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Memory.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Json.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Channels.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.ValueTuple.dll
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Npgsql.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Buffers.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Memory.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Json.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Channels.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.ValueTuple.xml
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.AssemblyReference.cache
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form1.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form2.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form3.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form4.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form5.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Properties.Resources.resources
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.GenerateResource.cache
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.CoreCompileInputs.cache
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3.1331564A.Up2Date
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.exe
+C:\Users\ARDA\Desktop\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe.config
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Npgsql.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Buffers.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Memory.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Json.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.ValueTuple.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\Npgsql.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Buffers.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Memory.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Text.Json.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\bin\Debug\System.ValueTuple.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form1.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form2.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form3.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form4.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form5.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Properties.Resources.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.GenerateResource.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3.1331564A.Up2Date
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe.config
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Npgsql.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Buffers.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Memory.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Text.Json.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Threading.Channels.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.ValueTuple.dll
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\Npgsql.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Buffers.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Memory.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Text.Json.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Threading.Channels.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\bin\Debug\System.ValueTuple.xml
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form1.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form2.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form3.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form4.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form5.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Properties.Resources.resources
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.GenerateResource.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3.1331564A.Up2Date
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.exe
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.pdb
+C:\Users\Huawei\Desktop\Yazlablar\3.Proje\Yazlab_3_muarda (1)\Yazlab_3_mu\obj\Debug\Yazlab_3_mu.Form6.resources

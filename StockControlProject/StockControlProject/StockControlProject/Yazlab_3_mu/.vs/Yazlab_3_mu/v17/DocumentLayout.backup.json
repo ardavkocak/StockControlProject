@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|c:\\users\\arda\\desktop\\siparis_ve_stok-main\\siparis_ve_stok-main\\es_zamanli_siparis_ve_stok_kontrol\\yazlab_3_mu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|StockProject.csproj|c:\\users\\arda\\desktop\\siparis_ve_stok-main\\siparis_ve_stok-main\\es_zamanli_siparis_ve_stok_kontrol\\yazlab_3_mu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|StockProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|StockProject.csproj|c:\\users\\arda\\desktop\\siparis_ve_stok-main\\siparis_ve_stok-main\\es_zamanli_siparis_ve_stok_kontrol\\yazlab_3_mu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|StockProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|c:\\users\\arda\\desktop\\siparis_ve_stok-main\\siparis_ve_stok-main\\es_zamanli_siparis_ve_stok_kontrol\\yazlab_3_mu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D73C4A32-1D6C-476E-9CEE-92C3F053A0B0}|Yazlab_3_mu.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAEwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:32:57.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:32:07.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T19:31:23.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAIA4wL4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:20:07.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwJwBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:42:12.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:05.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:07.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ARDA\\Desktop\\Siparis_ve_Stok-main\\Siparis_ve_Stok-main\\Es_Zamanli_Siparis_ve_Stok_Kontrol\\Yazlab_3_mu\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Huawei\\Desktop\\Yazlablar\\3.Proje\\Yazlab_3_muarda (1)\\Yazlab_3_mu\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T01:12:08.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
