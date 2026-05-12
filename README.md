@@ -1,6 +1,6 @@
 # Stok Kontrol Projesi
 
-C# Windows Forms ile yazılmış, **PostgreSQL** veritabanı destekli çok kullanıcılı bir stok ve müşteri yönetim sistemi. Kocaeli Üniversitesi **Yazılım Lab III (Yazlab_3)** dersi kapsamında geliştirilmiştir.
+C# Windows Forms ile yazılmış, **PostgreSQL** veritabanı destekli çok kullanıcılı bir stok ve müşteri yönetim sistemi. **Yazılım Lab III (Yazlab_3)** dersi kapsamında geliştirilmiştir.
 
 ## Özellikler
 
